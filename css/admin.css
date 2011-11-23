@@ -1,0 +1,13 @@
+/**
+ * admin.css
+ */
+
+.communicator-widget textarea {
+	height: 3em;
+	max-width: 100%;
+	resize: vertical;
+	width: 100%;
+}
+.communicator-widget p.submit {
+	text-align: right;
+}
